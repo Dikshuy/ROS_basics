@@ -1,5 +1,0 @@
-<launch>
- <!-- run simple.py from my_package -->
- <node pkg="dikshant" type="movement.py" name="move_risc"  output="screen">
- </node>
-</launch>
